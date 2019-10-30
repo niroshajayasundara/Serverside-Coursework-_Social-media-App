@@ -1,5 +1,6 @@
 In this coursework, you will build a simple social networking website for people who like music. The
 requirements for the social network are as follows:
+
 1. Each user will be able to register an account with a username and password
 2. A user should be able to login and see their home page (see below)
 3. A user will be able to create a profile when they register, which will consist of:
